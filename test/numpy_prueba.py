@@ -23,7 +23,7 @@ print(n1.dtype)#muestra que tipo de dato estamos usando
 
          #print(n1(1,2)) ## PRIMER NUMERO, es el renglon y SEGUNDO NUMERO es la columna
 
-print(n1*2)
+print(n1*2/2)
 print(np.linalg.norm(n1))
 print(n1[0,:].mean())  #MEAN SIRVE PARA SACAR PROMEDIOS, Y los dos puntos irve para indicar que quieres tomar todos los valores de la columna o renglon segun sea el caso
 
